@@ -597,7 +597,6 @@ MonoBehaviour:
   coinsCounter: {fileID: 34336773}
   gameOverPanel: {fileID: 1633291794}
   levelFinishedPanel: {fileID: 1887815589}
-  pausePanel: {fileID: 193956590}
 --- !u!4 &336068706
 Transform:
   m_ObjectHideFlags: 0
@@ -15823,7 +15822,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: T_T
+  m_Text: GAME oVER :_)
 --- !u!222 &1178476088
 CanvasRenderer:
   m_ObjectHideFlags: 0
